@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andygrun
-- 👀 I’m interested in cloud computer, Linux, Network and new tehnologies. 
+- 👀 I’m a Technical Support Engineer interested in cloud computer, Linux, Network and new tehnologies. 
 - 🌱 I’m currently learning Linux system administration and DevOps practices through hands-on projects. 
 - 💞️ I’m looking to continuous learning and aiming to transition into a more technical role SysAdmin, Support Engenieer or Cloud Engineer.
 - 📫 How to reach me andersongrun@hotmail.com 
