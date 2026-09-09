@@ -2,7 +2,7 @@
 - 👀 I’m a Technical Support Engineer interested in cloud computer, Linux, Network and new tehnologies. 
 - 🌱 I’m currently learning Linux system administration and DevOps practices through hands-on projects. 
 - 💞️ I’m looking to continuous learning and aiming to transition into a more technical role SysAdmin, Support Engenieer or Cloud Engineer.
-- 📫 How to reach me andersongrun@hotmail.com 
+- 📫 How to reach me andersongrun89@gmail.com 
 - ⚡ Fun fact: ...
 I moved abroad to learn english for 6 months back in 2014, and still. I love Travel, food, Music, technology and brazilian jiujtsu.
 <!---
