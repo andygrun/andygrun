@@ -4,14 +4,14 @@ Technical support engineer moving into cloud and DevOps engineering, based in Li
 I learn by building and running my own infrastructure.
 
 ## Projects
-- [personal-website](link): my site in an nginx container on my home server, redeployed by GitHub Actions on every push to main.
-- [home-server-lab](link): Ubuntu server running Docker services, with notes on setup and Linux admin.
+- [personal-website](https://github.com/andygrun/personal-website): my site in an nginx container on my home server, redeployed by GitHub Actions on every push to main.
+- [home-server-lab](https://github.com/andygrun/home-server): Ubuntu server running Docker services, with notes on setup and Linux admin.
 
 ## Tools
 AWS, Terraform, Docker, GitHub Actions, Linux, Bash
 
 ## Contact
-[LinkedIn](link)
+[LinkedIn](www.linkedin.com/in/anderson-grun)
 <!---
 andygrun/andygrun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
