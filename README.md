@@ -12,7 +12,7 @@ I learn by building and running my own infrastructure.
 AWS, Terraform, Docker, GitHub Actions, Linux, Bash
 
 ## Contact
-[LinkedIn](www.linkedin.com/in/anderson-grun)
+[LinkedIn](https://www.linkedin.com/in/anderson-grun)
 <!---
 andygrun/andygrun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
