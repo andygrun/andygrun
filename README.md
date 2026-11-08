@@ -5,7 +5,7 @@ I learn by building and running my own infrastructure.
 
 ## Projects
 - [personal-website](https://github.com/andygrun/personal-website): my site in an nginx container on my home server, redeployed by GitHub Actions on every push to main.
-- [home-server-lab](https://github.com/andygrun/home-server-lab): Ubuntu server running Docker services, with notes on setup and Linux admin.
+- [home-server-lab](https://github.com/andygrun/home-server-lab): Ubuntu server running Docker services, with notes on setup and Linux admin. my portfolio site, served from an nginx container on my home server (local network only for now), redeployed by GitHub Actions on every push to main.
 
 ## Tools
 AWS, Terraform, Docker, GitHub Actions, Linux, Bash
